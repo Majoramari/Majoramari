@@ -1,4 +1,4 @@
-### Nothing to see here, leave!
+### Nothing to see here, leave! (Still learning)
 
 <!--
 **Majoramari/Majoramari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
