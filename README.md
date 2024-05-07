@@ -19,16 +19,16 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 
 <div>
   <a href="https://www.linkedin.com/in/majoramari/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/linkedin.svg" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/majoramarii" target="_blank">
-    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/x.svg" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/x.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="instagram.com/major.amari/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/instagram.svg"  height="40" alt="instagram logo"  />
+  <a href="https://instagram.com/major.amari/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/instagram.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="t.me/majoramari" target="_blank">
-    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/telegram.svg" height="40" alt="telegram logo"  />
+  <a href="https://t.me/majoramari" target="_blank">
+    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/telegram.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 
