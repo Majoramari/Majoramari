@@ -24,10 +24,10 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
     <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/x.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="instagram.com/major.amari/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/instagram.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="t.me/majoramari" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/telegram.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 
