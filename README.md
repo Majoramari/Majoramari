@@ -39,18 +39,31 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  /> -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  /> -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
+</div>
+
+### 📖 Learning
+
+<div>
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
 </div>
 
 ### 🏗️ Projects:
