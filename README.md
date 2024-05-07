@@ -69,3 +69,5 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/majoramarii)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](Your Portfolio Link)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jmari@duck.com)
+
+<img src="https://raw.githubusercontent.com/majoramari/majoramari/output/snake.svg" alt="Snake animation" />
