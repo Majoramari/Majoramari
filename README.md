@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 - 🌱 I’m currently learning Rust.
 - 💬 Ask me about anything related to web development, Typescript, or learning!
 
-### Let's Connect:
+### 🤝 Let's Connect:
 
 <div>
   <a href="https://www.linkedin.com/in/majoramari/" target="_blank">
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   </a>
 </div>
 
-### Skillset:
+### 📚 Skillset:
 
 <div>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -53,14 +53,22 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
-### Projects:
+### 🏗️ Projects:
 
 - Account Switcher (Go): Comming soon...
 
-### Certificates:
+### 📜 Certificates:
 
 - [Ultimate Rust Crash Course](https://www.udemy.com/certificate/UC-ab9c2538-96e8-46f1-b5ba-4881df11527c/)
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/certificate/UC-954e7f44-912a-4485-b407-499b1f5da90e/)
 - [Logo Design Mastery In Adobe Illustrator](https://www.udemy.com/certificate/UC-0a3cb28e-621d-4d5d-a6b8-b4ff82d5ba78/)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majoramari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=majoramari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=majoramari&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/output/snake.svg" alt="Snake animation" />
