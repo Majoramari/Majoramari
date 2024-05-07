@@ -10,8 +10,9 @@
 
 Welcome to my GitHub profile! I'm passionate about creating innovative web applications and contributing to the developer community. Here's a little about me:
 
+- 👨🏽‍💻 I have over 4 years of experience in web development.
+- 🎖️ My nickname is MajorAmari
 - 🔭 I’m currently working on an account switcher written in Go.
-- 🌱 I’m currently learning Rust.
 - 💬 Ask me about anything related to web development, Typescript, or learning!
 
 ### 🤝 Let's Connect:
