@@ -1,9 +1,9 @@
 # Hi there, I'm Muhannad Elbolaky! 👋
 
 <div>
-  <img src="src/arthur.png" width="300" align="right" />
+  <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/arthur.png" width="300" align="right" />
   <br/>
-  <img src="src/arthur.png" width="500" />
+  <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/about_me.png" width="500" />
   <br/>
   <br/>
 </div>
