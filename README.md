@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <!-- <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  /> -->
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <!-- <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  /> -->
@@ -59,7 +59,6 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 ### 📖 Learning
 
 <div>
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
@@ -74,6 +73,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 ### 📜 Certificates:
 
 - [Ultimate Rust Crash Course](https://www.udemy.com/certificate/UC-ab9c2538-96e8-46f1-b5ba-4881df11527c/)
+- [Go - The Complete Guide](https://www.udemy.com/certificate/UC-34d1c049-b248-4d66-9f0b-4a19f066ebc5/)
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/certificate/UC-954e7f44-912a-4485-b407-499b1f5da90e/)
 - [Logo Design Mastery In Adobe Illustrator](https://www.udemy.com/certificate/UC-0a3cb28e-621d-4d5d-a6b8-b4ff82d5ba78/)
 
