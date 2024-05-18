@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  /> -->
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <!-- <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  /> -->
