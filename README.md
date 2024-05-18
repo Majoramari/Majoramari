@@ -36,13 +36,13 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 
 <div>
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  /> -->
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <!-- <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  /> -->
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <!-- <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  /> -->
   <!-- <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  /> -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -59,9 +59,11 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 ### 📖 Learning
 
 <div>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
 </div>
