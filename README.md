@@ -77,6 +77,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 - [Ultimate Rust Crash Course](https://www.udemy.com/certificate/UC-ab9c2538-96e8-46f1-b5ba-4881df11527c/)
 - [Go - The Complete Guide](https://www.udemy.com/certificate/UC-34d1c049-b248-4d66-9f0b-4a19f066ebc5/)
 - [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/certificate/UC-954e7f44-912a-4485-b407-499b1f5da90e/)
+- [Master Git and GitHub in 5 Days: Go from Zero to Hero](https://www.udemy.com/certificate/UC-009e987a-33ce-487c-88c0-bece2586f2f3/)
 - [Logo Design Mastery In Adobe Illustrator](https://www.udemy.com/certificate/UC-0a3cb28e-621d-4d5d-a6b8-b4ff82d5ba78/)
 
 ---
