@@ -71,6 +71,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 ### 🏗️ Projects:
 
 - Account Switcher (Go): Comming soon...
+- Panadora (Go): Comming soon...
 
 ### 📜 Certificates:
 
