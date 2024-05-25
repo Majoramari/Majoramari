@@ -64,7 +64,6 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
 </div>
 
