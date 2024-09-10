@@ -41,6 +41,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <!-- <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  /> -->
   <!-- <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  /> -->
   <!-- <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
@@ -52,8 +53,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
 ### 📖 Learning
