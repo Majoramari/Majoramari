@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 
 - 👨🏽‍💻 I have over 4 years of experience in web development.
 - 🎖️ My nickname is MajorAmari.
-- 🔭 I’m currently working on an account switcher written in Go.
-- 💬 Ask me about anything related to web development, Typescript, or learning!
+- 💬 Ask me about anything related to Web development, Typescript, or Learning!
 
 ### 🤝 Let's Connect:
 
@@ -21,14 +20,8 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   <a href="https://www.linkedin.com/in/majoramari/" target="_blank">
     <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/majoramarii" target="_blank">
-    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/x.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://instagram.com/major.amari/" target="_blank">
     <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/instagram.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/majoramari" target="_blank">
-    <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/telegram.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 
