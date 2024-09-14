@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 - 👨🏽‍💻 I have over 4 years of experience in web development.
 - 🎖️ My nickname is MajorAmari.
 - 💬 Ask me about anything related to Web development, Typescript, or Learning!
+- [![wakatime](https://wakatime.com/badge/user/d92b48ff-445f-4c75-9f78-e1b0f8405ad1.svg?style=social)](https://wakatime.com/@d92b48ff-445f-4c75-9f78-e1b0f8405ad1)
 
 ### 🤝 Let's Connect:
 
