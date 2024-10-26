@@ -33,14 +33,10 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
