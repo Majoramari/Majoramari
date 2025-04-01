@@ -40,6 +40,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative web appli
 <div>
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="dotnet logo" />
 </div>
 
 ---
