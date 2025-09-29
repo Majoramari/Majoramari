@@ -1,45 +1,32 @@
 # Hi there, I'm Muhannad Elbolaky! 👋
 
-<div>
-  <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/arthur.png" width="300" align="right" />
-  <br/>
+<div align="center">
+  <!-- <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/arthur.png" width="300" align="right" /> -->
   <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/assets/about_me.png" width="500" />
-  <br/>
-  <br/>
 </div>
 
-Welcome to my GitHub profile! I'm passionate about creating innovative web applications and contributing to the developer community. Here's a little about me:
+Welcome to my GitHub profile! Here's a little about me:
 
 - 🧑🏻‍💻 I have over 4 years of experience in web development.
 - 🎖️ My nickname is MajorAmari.
-- 💬 Ask me about anything related to Web development, Typescript, or Learning!
+- 💬 I was a Graphic Designer & Video Editor
 - [![WakaTime](https://wakatime.com/badge/user/d92b48ff-445f-4c75-9f78-e1b0f8405ad1.svg?style=social)](https://wakatime.com/@d92b48ff-445f-4c75-9f78-e1b0f8405ad1)
 
 ---
 
 ### 📚 Skillset:
 
-<div>
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,bun,c,cpp,cs,go,cmake,git,github,gitlab,cloudflare,linux,arch,bash,vim,godot&perline=5" />
+</a>
 
 ---
 
 ### 📖 Currently Learning:
 
-<div>
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="dotnet logo" />
-</div>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust,unreal&perline=5" />
+</a>
 
 ---
 
