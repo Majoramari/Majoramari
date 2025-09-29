@@ -10,7 +10,6 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🧑🏻‍💻 I have over 4 years of experience in web development.
 - 🎖️ My nickname is MajorAmari.
 - 💬 I was a Graphic Designer & Video Editor
-- [![WakaTime](https://wakatime.com/badge/user/d92b48ff-445f-4c75-9f78-e1b0f8405ad1.svg?style=social)](https://wakatime.com/@d92b48ff-445f-4c75-9f78-e1b0f8405ad1)
 
 ---
 
@@ -58,17 +57,4 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 📊 My Coding Stats:
 
-<div align="center">
-  <h3>🛠️ Most Used Languages</h3>
-  <img src="https://wakatime.com/share/@Majoramari/a897d31e-ec3b-41d1-b54a-bc04c04b1656.png" width="80%" alt="My Most Used Languages" />
-  <br/><br/>
-  
-  <h3>📅 Coding Activity Table</h3>
-  <img src="https://wakatime.com/share/@Majoramari/297cd2ea-a320-440d-b57f-e1b04ead39de.png" width="80%" alt="My Coding Activity Table" />
-  <br/><br/>
-
-  <h3>📈 GitHub Statistics</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majoramari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=majoramari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=21073&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=ambient_gradient)
