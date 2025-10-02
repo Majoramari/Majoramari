@@ -39,12 +39,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ---
 
-### 🏗️ Projects:
-
-- Coming soon...
-
----
-
 ### 📜 Certifications:
 
 - [Ultimate Rust Crash Course](https://www.udemy.com/certificate/UC-ab9c2538-96e8-46f1-b5ba-4881df11527c/)
@@ -58,3 +52,9 @@ Welcome to my GitHub profile! Here's a little about me:
 ### 📊 My Coding Stats:
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=21073&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=ambient_gradient)
+
+```
+{{- with hackatimeStats -}}
+{{- wakatimeLanguages "💾 Languages:" .Data.Languages 5 .Data.HumanReadableTotal -}}
+{{- end -}}
+```
