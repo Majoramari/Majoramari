@@ -7,7 +7,7 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
-- 🧑🏻‍💻 I have over 4 years of experience in web development.
+- 🧑🏻‍💻 I have ~4 years of experience in web development.
 - 🎖️ My nickname is MajorAmari.
 - 💬 I was a Graphic Designer & Video Editor
 
@@ -51,7 +51,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 📊 My Coding Stats:
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=21073&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=ambient_gradient)
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=21073&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
 
 ```
 {{- with hackatimeStats -}}
