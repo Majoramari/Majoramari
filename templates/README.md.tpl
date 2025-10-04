@@ -51,10 +51,12 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 📊 My Coding Stats:
 
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=21073&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
-
 ```
 {{- with hackatimeStats -}}
 {{- wakatimeLanguages "💾 Languages:" .Data.Languages 5 .Data.HumanReadableTotal -}}
 {{- end -}}
 ```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/profile-3d-contrib/profile-night-rainbow.svg"  />
+</div>
