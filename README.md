@@ -53,8 +53,13 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ```
 💾 Languages:
+C++             3h 55m       █████████░░░░░░░░░░░░░░░░  36.33%
+C/C++           3h 10m       ███████░░░░░░░░░░░░░░░░░░  29.53%
+CMake           1h 50m       ████░░░░░░░░░░░░░░░░░░░░░  17.01%
+CMakeLists.txt  1h 3m        ██░░░░░░░░░░░░░░░░░░░░░░░   9.89%
+YAML            1h 3m        ██░░░░░░░░░░░░░░░░░░░░░░░   9.87%
 
-Total: 
+Total: 10h 46m 49s
 Note: Status counting from 5th October 2025;
 ```
 
