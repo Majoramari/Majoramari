@@ -53,13 +53,13 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ```
 💾 Languages:
-C++             5h 13m       ████████░░░░░░░░░░░░░░░░░  34.94%
-C/C++           3h 10m       █████░░░░░░░░░░░░░░░░░░░░  21.26%
-TypeScript      2h 10m       ███░░░░░░░░░░░░░░░░░░░░░░  14.48%
-CMake           1h 50m       ███░░░░░░░░░░░░░░░░░░░░░░  12.24%
-CMakeLists.txt  1h 3m        █░░░░░░░░░░░░░░░░░░░░░░░░   7.12%
+C++             5h 13m       ████████░░░░░░░░░░░░░░░░░  34.82%
+C/C++           3h 10m       █████░░░░░░░░░░░░░░░░░░░░  21.19%
+TypeScript      2h 13m       ███░░░░░░░░░░░░░░░░░░░░░░  14.76%
+CMake           1h 50m       ███░░░░░░░░░░░░░░░░░░░░░░  12.20%
+CMakeLists.txt  1h 3m        █░░░░░░░░░░░░░░░░░░░░░░░░   7.10%
 
-Total: 14h 58m 31s
+Total: 15h 1m 27s
 Note: Status counting from 5th October 2025;
 ```
 
