@@ -53,17 +53,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=21073&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent)
 
-```
-💾 Languages:
-C++             3h 55m       █████████░░░░░░░░░░░░░░░░  39.67%
-C/C++           3h 10m       ████████░░░░░░░░░░░░░░░░░  32.24%
-CMake           1h 50m       ████░░░░░░░░░░░░░░░░░░░░░  18.57%
-CMakeLists.txt  1h 3m        ██░░░░░░░░░░░░░░░░░░░░░░░  10.80%
-YAML            1h 3m        ██░░░░░░░░░░░░░░░░░░░░░░░  10.78%
-
-Total: 9h 52m 28s
-```
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Majoramari/Majoramari/master/profile-3d-contrib/profile-night-rainbow.svg"  />
 </div>
