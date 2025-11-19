@@ -55,7 +55,6 @@ Welcome to my GitHub profile! Here's a little about me:
 {{- with hackatimeStats -}}
 {{- wakatimeLanguages "💾 Languages:" .Data.Languages 5 .Data.HumanReadableTotal -}}
 {{- end -}}
-Note: Status counting from 5th October 2025;
 ```
 
 <div align="center">
