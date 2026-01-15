@@ -15,16 +15,16 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ### 📚 Skillset:
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,nodejs,bun,c,cpp,go,cmake,git,github,gitlab,cloudflare,linux,arch,bash,vim,godot&perline=5" />
+<a href="https://skills.syvixor.com">
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,ts,nodejs,bun,c,cpp,go,cmake,git,jujutsu,github,gitlab,cloudflare,linux,arch,bash,vim,godot&perline=5" />
 </a>
 
 ---
 
 ### 📖 Currently Learning:
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,angular&perline=5" />
+<a href="https://skills.syvixor.com">
+  <img src="https://skills.syvixor.com/api/icons?i=rust,angular&perline=5" />
 </a>
 
 ---
