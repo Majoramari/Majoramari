@@ -16,7 +16,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ### 📚 Skillset:
 
 <a href="https://skills.syvixor.com">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,ts,nodejs,bun,c,cpp,go,cmake,git,jujutsu,linux,arch,bash,vim&perline=5" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,ts,nodejs,bun,python,c,cpp,go,cmake,git,jujutsu,linux,arch,bash,vim&perline=5" />
 </a>
 
 ---
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ### 📖 Currently Learning:
 
 <a href="https://skills.syvixor.com">
-  <img src="https://skills.syvixor.com/api/icons?i=rust,zig,svelte&perline=5" />
+  <img src="https://skills.syvixor.com/api/icons?i=rust,svelte&perline=5" />
 </a>
 
 ---
