@@ -7,9 +7,7 @@
 
 Welcome to my GitHub profile! Here's a little about me:
 
-- 🧑🏻‍💻 I have ~4 years of experience in web development.
 - 🎖️ My nickname is MajorAmari.
-- 💬 I was a Graphic Designer & Video Editor.
 
 ---
 
